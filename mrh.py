@@ -76,7 +76,7 @@ elif pilih == "2":
             print ""
             print "  untung : harga pembelian x 100%"
             print ""
-            print "2.Presentase rugi =
+            print "2.Presentase rugi ="
             print ""
             print "  rugi : harga pembelian x 100%"
         elif pilih == "3":
